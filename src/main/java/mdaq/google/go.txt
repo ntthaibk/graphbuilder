@@ -1,0 +1,45 @@
+00:50:31.639  -- Distance between origin BK-7P28QMC5+R5 and destination THTxLyThuongKiet-7P28QMC5+67 is [286]
+00:50:31.873 
+00:50:31.873  -- Distance between origin BK-7P28QMC5+R5 and destination LTKx3/2-7P28QM75+GX is [988]
+00:50:32.149 
+00:50:32.149  -- Distance between origin LTKx3/2-7P28QM75+GX and destination ThanhThaix3/2-7P28QM98+4R is [918]
+00:50:32.384 
+00:50:32.385  -- Distance between origin ThanhThaix3/2-7P28QM98+4R and destination ThanhThaixNgoGiaTu-7P28QM59+XH is [975]
+00:50:32.597 
+00:50:32.597  -- Distance between origin ThanhThaixNgoGiaTu-7P28QM59+XH and destination LeHongPhongxLyThaiTo-7P28QM9F+3Q is [1036]
+00:50:32.823 
+00:50:32.823  -- Distance between origin LeHongPhongxLyThaiTo-7P28QM9F+3Q and destination DBPxCMT8-7P28QMGM+MF is [1436]
+00:50:33.063 
+00:50:33.063  -- Distance between origin DBPxCMT8-7P28QMGM+MF and destination NTMKxCMT8-7P28QMFQ+CQ is [719]
+00:50:33.389 
+00:50:33.390  -- Distance between origin THTxLyThuongKiet-7P28QMC5+67 and destination THTxThanhThai-7P28QMG7+HC is [1977]
+00:50:33.549 
+00:50:33.549  -- Distance between origin THTxThanhThai-7P28QMG7+HC and destination ThanhThaix3/2-7P28QM98+4R is [1094]
+00:50:33.809 
+00:50:33.809  -- Distance between origin ThanhThaix3/2-7P28QM98+4R and destination 3/2xLeHongPhong-7P28QMCF+96 is [923]
+00:50:34.050 
+00:50:34.050  -- Distance between origin 3/2xLeHongPhong-7P28QMCF+96 and destination LeHongPhongxLyThaiTo-7P28QM9F+3Q is [444]
+00:50:34.265 
+00:50:34.265  -- Distance between origin LeHongPhongxLyThaiTo-7P28QM9F+3Q and destination LyThaiToxNTMK-7P28QM8J+5M is [867]
+00:50:34.458 
+00:50:34.459  -- Distance between origin LyThaiToxNTMK-7P28QM8J+5M and destination NTMKxCMT8-7P28QMFQ+CQ is [2993]
+00:50:34.747 
+00:50:34.748  -- Distance between origin NTMKxCMT8-7P28QMFQ+CQ and destination CMT8xLyTuTrong-7P28QMCV+H9 is [549]
+00:50:35.042 
+00:50:35.042  -- Distance between origin CMT8xLyTuTrong-7P28QMCV+H9 and destination LyTuTrongxNguyenTrungTruc-7P28QMFX+W7 is [645]
+00:50:35.252 
+00:50:35.253  -- Distance between origin LyTuTrongxNguyenTrungTruc-7P28QMFX+W7 and destination NguyenTrungTrucxLeLoi-7P28QMFX+8WG is [246]
+00:50:35.524 
+00:50:35.525  -- Distance between origin NguyenTrungTrucxLeLoi-7P28QMFX+8WG and destination LeLoixPhanBoiChau-7P28QMCX+WG8 is [391]
+00:50:35.737 
+00:50:35.738  -- Distance between origin CMT8xLyTuTrong-7P28QMCV+H9 and destination LyTuTrongxThuKhoaHuan-7P28QMFW+HRX is [493]
+00:50:35.939 
+00:50:35.939  -- Distance between origin LyTuTrongxThuKhoaHuan-7P28QMFW+HRX and destination ThuKhoaHuanxLeThanhTon-7P28QMFX+732 is [112]
+00:50:36.137 
+00:50:36.137  -- Distance between origin ThuKhoaHuanxLeThanhTon-7P28QMFX+732 and destination LeThanhTonxPhanChuTrinh-7P28QMFW+4VM is [60]
+00:50:36.351 
+00:50:36.351  -- Distance between origin LeThanhTonxPhanChuTrinh-7P28QMFW+4VM and destination PhanChuTrinhxLeLai-7P28QMCX+M4H is [1211]
+00:50:36.611 
+00:50:36.611  -- Distance between origin LeLoixPhanBoiChau-7P28QMCX+WG8 and destination ChoBenThanh-7P28QMCX+Q8X is [62]
+00:50:36.778 
+00:50:36.778  -- Distance between origin PhanChuTrinhxLeLai-7P28QMCX+M4H and destination ChoBenThanh-7P28QMCX+Q8X is [1194]
